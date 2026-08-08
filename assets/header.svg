@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F14"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#2DD4BF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)" opacity="0.45"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#line)"/>
+  <rect x="0" y="278" width="1200" height="2" fill="url(#line)" opacity="0.55"/>
+  <text x="72" y="118" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="3">AI / ML ENGINEER · FULL-STACK</text>
+  <text x="72" y="178" fill="#F9FAFB" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="700">Muhammad Ammar Shaikh</text>
+  <text x="72" y="222" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Building intelligent systems that ship.</text>
+</svg>
