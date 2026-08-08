@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="140">
       <a href="https://www.linkedin.com/in/ammar-shaikh-oo7">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" /><br />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22" alt="LinkedIn" /><br />
         LinkedIn
       </a>
     </td>
