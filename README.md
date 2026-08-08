@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.png" alt="Muhammad Ammar Shaikh ó AI/ML Engineer and Full-Stack Developer" width="100%" />
+<img src="assets/profile-header.png" alt="Muhammad Ammar Shaikh ù AI/ML Engineer and Full-Stack Developer" width="100%" />
 
 <br />
 
@@ -36,12 +36,12 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
 
 ### Selected projects
 
-- **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** ó SaaS AI dialer with analytics, user management, and call recording
-- **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** ó Live extrusion monitoring with ML state classification and anomaly detection
-- **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** ó Crypto signal suite for scalping and day/swing trading on Binance USDT perps
-- **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** ó Process monitoring, anomaly scoring, and predictive quality for industrial extrusion
-- **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** ó AI/ML agency platform and production systems ó [mindversa.dev](https://www.mindversa.dev/)
-- **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** ó Python automation for DU tracking workflows
+- **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** ù SaaS AI dialer with analytics, user management, and call recording
+- **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** ù Live extrusion monitoring with ML state classification and anomaly detection
+- **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** ù Crypto signal suite for scalping and day/swing trading on Binance USDT perps
+- **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** ù Process monitoring, anomaly scoring, and predictive quality for industrial extrusion
+- **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** ù AI/ML agency platform and production systems ù [mindversa.dev](https://www.mindversa.dev/)
+- **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** ù Python automation for DU tracking workflows
 
 ---
 
@@ -86,7 +86,7 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" /><br />Hugging Face
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="40" height="40" alt="OpenAI" /><br />OpenAI
+      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" height="40" alt="OpenAI" /><br />OpenAI
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" /><br />OpenCV
@@ -127,7 +127,7 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br />Next.js
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/streamlit.svg" width="40" height="40" alt="Streamlit" /><br />Streamlit
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit" /><br />Streamlit
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" /><br />React Native
@@ -164,7 +164,7 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br />VS Code
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cursor.svg" width="40" height="40" alt="Cursor" /><br />Cursor
+      <img src="https://cdn.simpleicons.org/cursor/A8B1FF" width="40" height="40" alt="Cursor" /><br />Cursor
     </td>
   </tr>
 </table>
@@ -183,6 +183,6 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
 
 **Open to roles and collaborations** in AI/ML engineering and full-stack AI product development.
 
-[m.ammarshaikh31@gmail.com](mailto:m.ammarshaikh31@gmail.com) ∑ [LinkedIn](https://www.linkedin.com/in/ammar-shaikh-oo7) ∑ [mindversa.dev](https://www.mindversa.dev/)
+[m.ammarshaikh31@gmail.com](mailto:m.ammarshaikh31@gmail.com) ù [LinkedIn](https://www.linkedin.com/in/ammar-shaikh-oo7) ù [mindversa.dev](https://www.mindversa.dev/)
 
 </div>
