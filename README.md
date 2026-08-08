@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/profile-header.png" alt="Muhammad Ammar Shaikh ù AI/ML Engineer and Full-Stack Developer" width="100%" />
+<img src="assets/profile-header.png" alt="Muhammad Ammar Shaikh - AI/ML Engineer and Full-Stack Developer" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Building+production+AI+systems;Open+to+work+%E2%80%94+AI%2FML+%26+full-stack+roles" alt="Typing bio animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Building+production+AI+systems;Open+to+work+-+AI%2FML+%26+full-stack+roles" alt="Typing bio animation" />
 
 <br />
 
@@ -23,25 +23,25 @@ I design and deliver **AI-powered products** across applied machine learning, LL
 My work spans industrial monitoring, process automation, intelligent SaaS products, and production-ready ML systems.
 
 **Core focus**
-- Applied machine learning & predictive systems
+- Applied machine learning and predictive systems
 - LLM / agent-based applications
 - Full-stack AI product development
-- Industrial monitoring & workflow automation
+- Industrial monitoring and workflow automation
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=34&lines=Applied+ML+%C2%B7+LLM+%2F+Agents+%C2%B7+Full-stack+AI;Industrial+monitoring+%C2%B7+Automation+%C2%B7+Trading+systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PyTorch" alt="Focus areas typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=34&lines=Applied+ML+-+LLM+%2F+Agents+-+Full-stack+AI;Industrial+monitoring+-+Automation+-+Trading+systems;Python+-+TypeScript+-+FastAPI+-+React+-+PyTorch" alt="Focus areas typing animation" />
 </div>
 
 ---
 
 ### Selected projects
 
-- **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** ù SaaS AI dialer with analytics, user management, and call recording
-- **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** ù Live extrusion monitoring with ML state classification and anomaly detection
-- **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** ù Crypto signal suite for scalping and day/swing trading on Binance USDT perps
-- **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** ù Process monitoring, anomaly scoring, and predictive quality for industrial extrusion
-- **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** ù AI/ML agency platform and production systems ù [mindversa.dev](https://www.mindversa.dev/)
-- **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** ù Python automation for DU tracking workflows
+- **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** - SaaS AI dialer with analytics, user management, and call recording
+- **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** - Live extrusion monitoring with ML state classification and anomaly detection
+- **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** - Crypto signal suite for scalping and day/swing trading on Binance USDT perps
+- **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** - Process monitoring, anomaly scoring, and predictive quality for industrial extrusion
+- **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** - AI/ML agency platform and production systems - [mindversa.dev](https://www.mindversa.dev/)
+- **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** - Python automation for DU tracking workflows
 
 ---
 
@@ -92,7 +92,7 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="28" height="28" alt="Hugging Face" /><br />Hugging Face
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="28" height="28" alt="OpenAI" /><br />OpenAI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="28" height="28" alt="OpenAI" /><br />OpenAI
     </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="28" height="28" alt="LangChain" /><br />LangChain
@@ -209,6 +209,6 @@ My work spans industrial monitoring, process automation, intelligent SaaS produc
 
 **Open to roles and collaborations** in AI/ML engineering and full-stack AI product development.
 
-[m.ammarshaikh31@gmail.com](mailto:m.ammarshaikh31@gmail.com) ù [LinkedIn](https://www.linkedin.com/in/ammar-shaikh-oo7) ù [mindversa.dev](https://www.mindversa.dev/)
+[m.ammarshaikh31@gmail.com](mailto:m.ammarshaikh31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ammar-shaikh-oo7) | [mindversa.dev](https://www.mindversa.dev/)
 
 </div>
