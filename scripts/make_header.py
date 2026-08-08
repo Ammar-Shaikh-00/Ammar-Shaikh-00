@@ -71,8 +71,8 @@ def center_text(text, font, y, fill):
 
 
 center_text("Muhammad Ammar Shaikh", name_font, 100, (230, 240, 232))
-center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (110, 160, 125))
-center_text("Building production AI systems", sub_font, 230, (120, 140, 128))
+center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (74, 222, 128))
+center_text("Building production AI systems", sub_font, 230, (134, 180, 148))
 
 out = os.path.join(os.path.dirname(__file__), "..", "assets", "profile-header.png")
 out = os.path.abspath(out)
