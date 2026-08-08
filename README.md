@@ -19,84 +19,81 @@ Building intelligent systems that ship — from models to product.
 ### About
 
 I build AI-powered applications end to end: applied ML, LLM agents, APIs, and full-stack product surfaces.  
-~2+ years shipping systems for predictive maintenance, automation, NLP, and production AI products.
+~2+ years shipping systems for predictive maintenance, automation, trading signals, and production AI products.
 
-```text
-Applied ML  ·  LLM / Agents  ·  Full-stack AI products  ·  Industrial monitoring
-```
+`Applied ML` · `LLM / Agents` · `Full-stack AI` · `Industrial monitoring` · `Automation`
 
 ---
 
 ### Selected projects
 
-<div align="center">
-  <a href="https://github.com/Ammar-Shaikh-00/MindVersa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=MindVersa&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="MindVersa" />
-  </a>
-  <a href="https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=Sunpor-AI-Maintenance&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="Sunpor AI Maintenance" />
-  </a>
-</div>
+Projects pinned on my profile:
 
-<div align="center">
-  <a href="https://github.com/Ammar-Shaikh-00/Predictive-Maintenance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=Predictive-Maintenance&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="Predictive Maintenance" />
-  </a>
-  <a href="https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=AI-Dialer-MVP&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="AI Dialer MVP" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ammar-Shaikh-00/Telecom-Customer-Support-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=Telecom-Customer-Support-Agent&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="Telecom Support Agent" />
-  </a>
-  <a href="https://github.com/Ammar-Shaikh-00/Sentiment-Analysis-on-Social-Media-NLP-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ammar-Shaikh-00&repo=Sentiment-Analysis-on-Social-Media-NLP-&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB" alt="Social Media NLP" />
-  </a>
-</div>
-
-<details>
-<summary><strong>Quick brief on each</strong></summary>
-
-<br />
-
-- **[MindVersa](https://www.mindversa.dev/)** — AI software & ML engineering agency + production systems  
-- **Sunpor AI Maintenance** — industrial process monitoring, anomaly scoring, predictive quality  
-- **Predictive Maintenance** — live extrusion monitoring with ML state classification  
-- **AI Dialer MVP** — SaaS dialer with analytics, users, and call recording  
-- **Telecom Support Agent** — FastAPI + Streamlit agent with vector memory  
-- **Social Media NLP** — DistilBERT sentiment pipeline deployed with FastAPI  
-
-</details>
+| | |
+| :--- | :--- |
+| **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** | SaaS AI dialer with analytics, user management, and call recording |
+| **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** | Live extrusion monitoring with ML state classification and anomaly detection |
+| **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** | Crypto signal suite for scalping and day/swing trading on Binance USDT perps |
+| **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** | Process monitoring, anomaly scoring, and predictive quality for industrial extrusion |
+| **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** | AI/ML agency site and production systems — [mindversa.dev](https://www.mindversa.dev/) |
+| **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** | Python automation for DU tracking workflows |
 
 ---
 
 ### Stack
 
-<div align="center">
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=2DD4BF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B0F14?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML5-0B0F14?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B0F14?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0B0F14?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0B0F14?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0B0F14?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![OpenAI](https://img.shields.io/badge/OpenAI-0B0F14?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Transformers](https://img.shields.io/badge/Transformers-0B0F14?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B0F14?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![NLP](https://img.shields.io/badge/NLP-0B0F14?style=for-the-badge&logoColor=2DD4BF)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0B0F14?style=for-the-badge&logoColor=38BDF8)
+
+**Backend & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B0F14?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![REST API](https://img.shields.io/badge/REST%20API-0B0F14?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Express](https://img.shields.io/badge/Express-0B0F14?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+**Frontend & Apps**
+
 ![React](https://img.shields.io/badge/React-0B0F14?style=for-the-badge&logo=react&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0B0F14?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0F14?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenAI](https://img.shields.io/badge/OpenAI-0B0F14?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0B0F14?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Docker](https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![React Native](https://img.shields.io/badge/React%20Native-0B0F14?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-</div>
+**Data & Tooling**
+
+![Pandas](https://img.shields.io/badge/Pandas-0B0F14?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0B0F14?style=for-the-badge&logo=numpy&logoColor=013243)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B0F14?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Docker](https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0B0F14?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0B0F14?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0B0F14?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-### Activity
+### Currently
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ammar-Shaikh-00&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&icon_color=38BDF8&text_color=D1D5DB&ring_color=2DD4BF" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Shaikh-00&layout=compact&theme=dark&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&text_color=D1D5DB" alt="Top languages" />
-</div>
+- Shipping production AI systems through [MindVersa](https://www.mindversa.dev/)
+- Industrial predictive maintenance and process-quality monitoring
+- Trading systems, automation, and full-stack AI product MVPs
 
 ---
 
