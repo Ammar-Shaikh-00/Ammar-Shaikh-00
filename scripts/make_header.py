@@ -3,26 +3,26 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 
 W, H = 1280, 340
-img = Image.new("RGB", (W, H), "#0B3D2E")
+img = Image.new("RGB", (W, H), "#06140F")
 draw = ImageDraw.Draw(img)
 
-# Dark green gradient background
+# Very dark green gradient
 for y in range(H):
     t = y / (H - 1)
-    r = int(8 + (14 - 8) * t)
-    g = int(48 + (72 - 48) * t)
-    b = int(36 + (52 - 36) * t)
+    r = int(5 + (8 - 5) * t)
+    g = int(18 + (28 - 18) * t)
+    b = int(14 + (22 - 14) * t)
     draw.line([(0, y), (W, y)], fill=(r, g, b))
 
-# Subtle green grid
+# Very subtle green grid
 for x in range(0, W, 40):
-    draw.line([(x, 0), (x, H)], fill=(26, 90, 64))
+    draw.line([(x, 0), (x, H)], fill=(12, 36, 26))
 for y in range(0, H, 40):
-    draw.line([(0, y), (W, y)], fill=(26, 90, 64))
+    draw.line([(0, y), (W, y)], fill=(12, 36, 26))
 
-# Emerald accent bars
-green_a = (34, 197, 94)
-green_b = (16, 185, 129)
+# Muted dark-green accent bars
+green_a = (34, 90, 58)
+green_b = (28, 78, 52)
 for x in range(W):
     t = x / (W - 1)
     c = (
@@ -30,8 +30,8 @@ for x in range(W):
         int(green_a[1] * (1 - t) + green_b[1] * t),
         int(green_a[2] * (1 - t) + green_b[2] * t),
     )
-    draw.line([(x, 0), (x, 4)], fill=c)
-    draw.line([(x, H - 5), (x, H - 1)], fill=c)
+    draw.line([(x, 0), (x, 3)], fill=c)
+    draw.line([(x, H - 4), (x, H - 1)], fill=c)
 
 font_path = next(
     (
@@ -70,9 +70,9 @@ def center_text(text, font, y, fill):
     draw.text((x, y), text, font=font, fill=fill)
 
 
-center_text("Muhammad Ammar Shaikh", name_font, 100, (240, 253, 244))
-center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (74, 222, 128))
-center_text("Building production AI systems", sub_font, 230, (167, 199, 178))
+center_text("Muhammad Ammar Shaikh", name_font, 100, (226, 232, 228))
+center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (110, 150, 120))
+center_text("Building production AI systems", sub_font, 230, (120, 135, 125))
 
 out = os.path.join(os.path.dirname(__file__), "..", "assets", "profile-header.png")
 out = os.path.abspath(out)

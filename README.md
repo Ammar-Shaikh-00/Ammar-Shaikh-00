@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Building+production+AI+systems;Open+to+work+-+AI%2FML+%26+full-stack+roles" alt="Typing bio animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E9678&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Building+production+AI+systems;Open+to+work+-+AI%2FML+%26+full-stack+roles" alt="Typing bio animation" />
 
 <br />
 
