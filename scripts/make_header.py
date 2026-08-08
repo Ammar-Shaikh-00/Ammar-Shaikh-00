@@ -3,22 +3,22 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 
 W, H = 1280, 340
-img = Image.new("RGB", (W, H), "#071A12")
+img = Image.new("RGB", (W, H), "#0B3D2E")
 draw = ImageDraw.Draw(img)
 
 # Dark green gradient background
 for y in range(H):
     t = y / (H - 1)
-    r = int(7 + (12 - 7) * t)
-    g = int(26 + (42 - 26) * t)
-    b = int(18 + (28 - 18) * t)
+    r = int(8 + (14 - 8) * t)
+    g = int(48 + (72 - 48) * t)
+    b = int(36 + (52 - 36) * t)
     draw.line([(0, y), (W, y)], fill=(r, g, b))
 
 # Subtle green grid
 for x in range(0, W, 40):
-    draw.line([(x, 0), (x, H)], fill=(20, 55, 38))
+    draw.line([(x, 0), (x, H)], fill=(26, 90, 64))
 for y in range(0, H, 40):
-    draw.line([(0, y), (W, y)], fill=(20, 55, 38))
+    draw.line([(0, y), (W, y)], fill=(26, 90, 64))
 
 # Emerald accent bars
 green_a = (34, 197, 94)
