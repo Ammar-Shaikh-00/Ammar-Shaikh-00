@@ -8,30 +8,10 @@
 
 <br />
 
-**Open to work**
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.mindversa.dev/">
-        <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="22" height="22" alt="Portfolio" /><br />
-        Portfolio
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/ammar-shaikh-oo7">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22" alt="LinkedIn" /><br />
-        LinkedIn
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="mailto:m.ammarshaikh31@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email" /><br />
-        Email
-      </a>
-    </td>
-  </tr>
-</table>
+[![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-000000?style=for-the-badge&logoColor=white&color=22D3EE)](mailto:m.ammarshaikh31@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mindversa.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&color=3B82F6)](https://www.mindversa.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ammar--shaikh--oo7-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/ammar-shaikh-oo7)
+[![Email](https://img.shields.io/badge/Email-m.ammarshaikh31%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:m.ammarshaikh31@gmail.com)
 
 </div>
 
