@@ -29,14 +29,12 @@ I build AI-powered applications end to end: applied ML, LLM agents, APIs, and fu
 
 Projects pinned on my profile:
 
-| | |
-| :--- | :--- |
-| **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** | SaaS AI dialer with analytics, user management, and call recording |
-| **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** | Live extrusion monitoring with ML state classification and anomaly detection |
-| **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** | Crypto signal suite for scalping and day/swing trading on Binance USDT perps |
-| **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** | Process monitoring, anomaly scoring, and predictive quality for industrial extrusion |
-| **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** | AI/ML agency site and production systems — [mindversa.dev](https://www.mindversa.dev/) |
-| **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** | Python automation for DU tracking workflows |
+- **[AI-Dialer-MVP](https://github.com/Ammar-Shaikh-00/AI-Dialer-MVP)** — SaaS AI dialer with analytics, user management, and call recording
+- **[Predictive-Maintenance](https://github.com/Ammar-Shaikh-00/Predictive-Maintenance)** — Live extrusion monitoring with ML state classification and anomaly detection
+- **[Trading-Bot-Signals](https://github.com/Ammar-Shaikh-00/Trading-Bot-Signals)** — Crypto signal suite for scalping and day/swing trading on Binance USDT perps
+- **[Sunpor-AI-Maintenance](https://github.com/Ammar-Shaikh-00/Sunpor-AI-Maintenance)** — Process monitoring, anomaly scoring, and predictive quality for industrial extrusion
+- **[MindVersa](https://github.com/Ammar-Shaikh-00/MindVersa)** — AI/ML agency site and production systems — [mindversa.dev](https://www.mindversa.dev/)
+- **[DU-Tracking-Automation](https://github.com/Ammar-Shaikh-00/DU-Tracking-Automation)** — Python automation for DU tracking workflows
 
 ---
 
