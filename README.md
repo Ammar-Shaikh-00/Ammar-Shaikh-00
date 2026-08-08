@@ -2,8 +2,7 @@
 
 # Muhammad Ammar Shaikh
 
-**AI / ML Engineer & Full-Stack Developer**  
-Building intelligent systems that ship — from models to product.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Building+intelligent+systems+that+ship;Open+to+work+%E2%80%94+AI%2FML+%26+full-stack+roles" alt="Typing bio animation" />
 
 <br />
 
@@ -21,7 +20,9 @@ Building intelligent systems that ship — from models to product.
 I build AI-powered applications end to end: applied ML, LLM agents, APIs, and full-stack product surfaces.  
 ~2+ years shipping systems for predictive maintenance, automation, trading signals, and production AI products.
 
-`Applied ML` · `LLM / Agents` · `Full-stack AI` · `Industrial monitoring` · `Automation`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=32&lines=Applied+ML+%C2%B7+LLM+%2F+Agents+%C2%B7+Full-stack+AI;Industrial+monitoring+%C2%B7+Automation+%C2%B7+Trading+systems;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PyTorch" alt="Focus areas typing animation" />
+</div>
 
 ---
 
