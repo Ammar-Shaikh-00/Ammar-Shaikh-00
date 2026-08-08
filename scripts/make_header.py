@@ -20,9 +20,9 @@ for x in range(0, W, 40):
 for y in range(0, H, 40):
     draw.line([(0, y), (W, y)], fill=(18, 42, 32))
 
-# Soft dark-green accent bars (not neon)
-green_a = (34, 90, 58)
-green_b = (28, 78, 52)
+# Bright emerald accent bars
+green_a = (52, 211, 153)
+green_b = (74, 222, 128)
 for x in range(W):
     t = x / (W - 1)
     c = (
@@ -70,11 +70,11 @@ def center_text(text, font, y, fill):
     draw.text((x, y), text, font=font, fill=fill)
 
 
-center_text("Muhammad Ammar Shaikh", name_font, 100, (230, 240, 232))
-center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (74, 222, 128))
-center_text("Building production AI systems", sub_font, 230, (134, 180, 148))
+center_text("Muhammad Ammar Shaikh", name_font, 100, (245, 255, 248))
+center_text("AI / ML Engineer  |  Full-Stack Developer", role_font, 185, (134, 239, 172))
+center_text("Building production AI systems", sub_font, 230, (167, 243, 208))
 
-out = os.path.join(os.path.dirname(__file__), "..", "assets", "profile-header.png")
+out = os.path.join(os.path.dirname(__file__), "..", "assets", "profile-header-v2.png")
 out = os.path.abspath(out)
 os.makedirs(os.path.dirname(out), exist_ok=True)
 img.save(out, "PNG", optimize=True)

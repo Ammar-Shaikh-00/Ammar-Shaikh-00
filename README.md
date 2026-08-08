@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.png" alt="Muhammad Ammar Shaikh - AI/ML Engineer and Full-Stack Developer" width="100%" />
+<img src="assets/profile-header-v2.png" alt="Muhammad Ammar Shaikh - AI/ML Engineer and Full-Stack Developer" width="100%" />
 
 <br />
 
